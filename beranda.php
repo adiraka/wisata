@@ -24,9 +24,34 @@
                 12 Kabupaten dan 7 Kota dengan pembagian wilayah administratif sesudah kecamatan di seluruh kabupaten (kecuali Kabupaten Kepulauan Mentawai 
                 dinamakan sebagai nagari).
             </p>
-            
+            <p>
+                Berikut adalah beberapa penampakan dari alam Sumatera Barat :
+            </p>
+            <div class="row">
+                <div class="col-md-3">
+                    <a href="#" class="thumbnail">
+                        <img src="assets/img/img_01.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="#" class="thumbnail">
+                        <img src="assets/img/img_02.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="#" class="thumbnail">
+                        <img src="assets/img/img_03.jpg" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="#" class="thumbnail">
+                        <img src="assets/img/img_04.jpg" alt="">
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
+        
 </div>
 
 <?php

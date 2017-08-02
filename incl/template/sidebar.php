@@ -4,9 +4,6 @@
             Menu Navigasi
         </div>
     </div>
-    <div class="panel-body">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-    </div>
     <div class="list-group">
         <a href="beranda.php" class="list-group-item <?php $aktif = $_SERVER["PHP_SELF"]=="/wisata/beranda.php"?"active":""; echo $aktif; ?>">Beranda</a>
         <a href="profil.php" class="list-group-item <?php $aktif = $_SERVER["PHP_SELF"]=="/wisata/profil.php"?"active":""; echo $aktif; ?>">Profil Sumatera Barat</a>
